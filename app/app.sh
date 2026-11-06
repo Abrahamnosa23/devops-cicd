@@ -95,3 +95,4 @@ main() {
 main "$@"
 exit $?
 if [[ then
+if [[ then
