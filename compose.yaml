@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    image: devops-tool
+    command: ["help"]
+    read_only: true
+    tmpfs:
+      - /tmp
