@@ -1,0 +1,14 @@
+.git
+.github
+.gitignore
+.gitattributes
+logs
+*.log
+*.tmp
+tests
+scripts
+README.md
+grade.sh
+compose.yaml
+Dockerfile
+.dockerignore
